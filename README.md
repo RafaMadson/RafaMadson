@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Hello, I am Rafael, welcome to my github
-Analista de Desenvolvimento de sistemas [@distribuidoracoimbra](https://github.com/orgs/distribuidoracoimbra).
+System Development Analyst on  [@distribuidoracoimbra](https://github.com/orgs/distribuidoracoimbra).
 
 ## Technologies
 
