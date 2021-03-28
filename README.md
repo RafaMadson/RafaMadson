@@ -13,8 +13,8 @@ System Development Analyst on  [@distribuidoracoimbra](https://github.com/orgs/d
 <br>
 
 - I’m currently learning Kotlin and c#, HTML, CSS, Designer Pattern.
-- I’m looking to collaborate on Android.
-- Ask me about C#
+- Creating personal mobile projects with Kotlin
+- I am working on changes to a Mobile application with C # and Xamarin.
 - How to reach me: Facebook LinkedIn and email
 
  <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamadson&langs_count=8)](https://github.com/rafamadson/" />
