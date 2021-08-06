@@ -6,18 +6,18 @@ System Development Analyst on  [@distribuidoracoimbra](https://github.com/orgs/d
 ## Technologies
 
 <div text-align="justify">
-<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
 <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
 </div>
 <br>
 
-- I’m currently learning Kotlin and c#, HTML, CSS, Designer Pattern.
-- Creating personal mobile projects with Kotlin
+- I’m currently learning Flutter and c#, HTML, CSS, Designer Pattern.
+- Creating personal mobile projects with Flutter
 - I am working on changes to a Mobile application with C # and Xamarin.
 - How to reach me: Facebook LinkedIn and email
 
- <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamadson&langs_count=8)](https://github.com/rafamadson/" />
+<img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamadson&langs_count=8)](https://github.com/rafamadson/" />
 <img width="434px" src="https://github-readme-stats.vercel.app/api?username=rafamadson&hide=contribs,prs" />
 
 ### How to reach me:
